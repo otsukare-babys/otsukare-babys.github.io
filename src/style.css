@@ -1,0 +1,13 @@
+h1 {
+  position: relative;
+  color: #6eb0f9;
+  line-height: 1.4;
+  -webkit-box-reflect: below -10px -webkit-linear-gradient(top,rgba(0,0,0,0),rgba(0,0,0,0) 10%,rgba(0, 0, 0, 0.6));
+}
+
+table tr td p {
+  margin: 0px;
+}
+table tr th h4 {
+  margin-bottom: 0px;
+}
